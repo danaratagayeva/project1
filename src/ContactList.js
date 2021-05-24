@@ -9,6 +9,8 @@ function ContactList(){
         <ContactItem name="Ismail"/>
         <ContactItem/>
         <ContactItem/>
+        <ContactItem/>
+        <ContactItem/>
     </div>
     )
 }
